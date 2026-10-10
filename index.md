@@ -5,6 +5,7 @@ Responsável: Kevin de Carvalho Quissi
 
 E-mail: kquissi@gmail.com
 
+
 1. Introdução
 Esta Política de Privacidade explica como o Jeffu Bot coleta, utiliza, armazena, protege e elimina informações durante sua utilização no Discord.
 
